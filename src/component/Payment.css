@@ -1,0 +1,33 @@
+.payment {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    padding: 1em;
+}
+
+.amount {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    padding: 1em;
+    height: 40px;
+    font-size: 25px;
+}
+
+.donationHeader {
+    margin-top: 100px;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    padding: 1em;
+    font-size: 25px;
+}
+
+.edit {
+    background-color: red;
+}
+
+input {
+    height: 40px;
+    font-size: large;
+}
